@@ -18,7 +18,7 @@ I designed an interactive Bike Sales Dashboard in Excel to analyze customer demo
 - Excel (Data Cleaning & Formatting, Pivot Tables, Charts, Slicers, KPI Metrics)
 
 ## ❗ Note
-The Excel real file is **not included** but sample is provided to prevent misuse or duplication.  
+The Excel real file is **not included** but sample is provided to prevent misuse or duplication. <a href="https://github.com/Tamang-Ajay/Bike-Sales-Dashboard-Project-Excel-/blob/main/rawdataset.csv"> View Sample File</a> 
 📩 *If you'd like to review the file, feel free to reach out to me directly.*
 
 ## 🔗 Contact
