@@ -1,5 +1,5 @@
 # Bike-Sales-Dashboard-Project (Excel)
-# 📊Bike Sales Dashboard (<a href="https://github.com/Tamang-Ajay/Bike-Sales-Dashboard-Project-Excel-/blob/main/bikesales%20dashboard.png"> View Dashboard</a>)
+# 📊Bike Sales Dashboard <a href="https://github.com/Tamang-Ajay/Bike-Sales-Dashboard-Project-Excel-/blob/main/bikesales%20dashboard.png"> View Dashboard</a>
 
 ## 📌 Overview
 I designed an interactive Bike Sales Dashboard in Excel to analyze customer demographics and purchasing trends. The goal is to provide clear, data-driven insights to support better decision-making.
