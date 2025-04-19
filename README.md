@@ -13,7 +13,7 @@ I designed an interactive Bike Sales Dashboard in Excel to analyze customer demo
 - Inconsistent and unstructured data required extensive cleaning and transformation.
 - Ensuring smooth performance with dynamic filters and interactivity.
 - Creating a user-friendly and visually appealing layout.
-- 
+  
 ## 🛠 Tools Used
 - Excel (Data Cleaning & Formatting, Pivot Tables, Charts, Slicers, KPI Metrics)
 
